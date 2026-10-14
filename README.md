@@ -1,8 +1,6 @@
-<!-- Repo name must equal your username (Ryanv20/Ryanv20), public. Put README.md, assets/ and .github/ in it. -->
-
 <div align="center">
 
-<img src="assets/space.svg" alt="space defender" width="100%" />
+<img src="assets/space.svg" alt="Ryan pixel banner" width="100%" />
 
 <br/>
 
@@ -10,13 +8,8 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Turning+ideas+into+pixel-perfect+UIs;Next.js+%7C+TypeScript+%7C+Tailwind;Shipping+a+project+every+single+day" alt="typing" />
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=Ryanv20&style=for-the-badge&color=7c3aed&label=VIEWS)
+![Challenge](https://img.shields.io/badge/100_Projects-100_Days-7c3aed?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Ryanv20?style=for-the-badge&logo=github&color=2563eb)
-![Stars](https://img.shields.io/github/stars/Ryanv20?style=for-the-badge&logo=github&color=7c3aed)
 
 </div>
 
@@ -34,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,js,html,css,git,github,vercel,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,js,html,css,git,github,vercel,figma,vscode&theme=dark" alt="tech stack" />
 
 </div>
 
@@ -50,31 +43,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryanv20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanv20&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0f172a" />
-
-<img src="https://streak-stats.demolab.com/?user=Ryanv20&theme=tokyonight&hide_border=true&background=0f172a" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanv20&theme=tokyo-night&hide_border=true&bg_color=0f172a&area=true&custom_title=Contribution%20Flow" width="100%" />
+<img src="assets/stats.svg" width="100%" alt="GitHub stats" />
 
 </div>
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Ryanv20/Rycorn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryanv20&repo=Rycorn&theme=tokyonight&hide_border=true&bg_color=0f172a" /></a>
-<!-- add more pins: change repo=NAME -->
-
-</div>
-
-### 💬 Daily Dose
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+| Project | What it is |
+|---|---|
+| [**Rycorn**](https://github.com/Ryanv20/Rycorn) | Add a one-line description |
 
 ### 🤝 Connect
 
@@ -83,7 +60,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50%:2563eb,100%:0f172a&height=120&section=footer" width="100%" />
 
 </div>
