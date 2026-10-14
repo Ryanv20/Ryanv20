@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50%:2563eb,100%:7c3aed&height=240&section=header&text=ROKI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=SWE%20%26%20Solutions%20Architect%20%E2%80%A2%20Member%20of%20the%20Jedi%20%E2%9A%94%EF%B8%8F&descAlignY=65&descSize=18" width="100%" />
-
 <img src="assets/space.svg" alt="space defender" width="100%" />
 
 <br/>
