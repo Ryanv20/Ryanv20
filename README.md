@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="assets/terminal.svg" alt="animated terminal" width="780" />
-
 <br/><br/>
 
 ![Challenge](https://img.shields.io/badge/100_Projects-100_Days-7c3aed?style=for-the-badge)
@@ -62,3 +60,5 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
 
 </div>
+<br>
+<img src="assets/terminal.svg" alt="animated terminal" width="780" />
