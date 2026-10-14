@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50%:2563eb,100%:7c3aed&height=240&section=header&text=ROKI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Front-End%20Dev%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50%:2563eb,100%:7c3aed&height=240&section=header&text=ROKI&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=SWE%20%26%20Solutions%20Architect%20%E2%80%A2%20Member%20of%20the%20Jedi%20%E2%9A%94%EF%B8%8F&descAlignY=65&descSize=18" width="100%" />
+
+<img src="assets/runner.svg" alt="dev dodging bugs" width="780" />
+
+<br/>
 
 <img src="assets/terminal.svg" alt="animated terminal" width="780" />
 
@@ -41,14 +45,6 @@
 <div align="center">
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryanv20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 </div>
 
