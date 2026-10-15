@@ -415,5 +415,6 @@
 <rect class="c" style="animation-delay:1.56s" x="756" y="220" width="11" height="11" rx="2" fill="#4c1d95"/>
 <rect class="c" style="animation-delay:1.56s" x="756" y="234" width="11" height="11" rx="2" fill="#1e293b"/>
 <rect class="c" style="animation-delay:1.56s" x="756" y="248" width="11" height="11" rx="2" fill="#6d28d9"/>
+<rect class="c" style="animation-delay:1.56s" x="756" y="262" width="11" height="11" rx="2" fill="#1e293b"/>
 <rect class="glowb" x="2" y="2" width="776" height="326" rx="16" fill="none" stroke="url(#bd)" stroke-width="2"/>
 </svg>
