@@ -15,9 +15,9 @@
 <rect x="3" y="3" width="774" height="324" rx="16" fill="#0b1026"/>
 <text class="t" x="28" y="36">RYANV20 // GITHUB STATS</text>
 <text class="l" x="28" y="66">CONTRIBUTIONS (1Y)</text>
-<text class="v" x="28" y="82">151</text>
+<text class="v" x="28" y="82">152</text>
 <text class="l" x="28" y="96">COMMITS</text>
-<text class="v" x="28" y="112">130</text>
+<text class="v" x="28" y="112">131</text>
 <text class="l" x="28" y="126">PULL REQUESTS</text>
 <text class="v" x="28" y="142">12</text>
 <text class="l" x="28" y="156">PUBLIC REPOS</text>
@@ -27,7 +27,7 @@
 <text class="l" x="218" y="96">FOLLOWERS</text>
 <text class="v" x="218" y="112">16</text>
 <text class="l" x="218" y="126">CURRENT STREAK</text>
-<text class="v" x="218" y="142">1d</text>
+<text class="v" x="218" y="142">2d</text>
 <text class="l" x="218" y="156">LONGEST STREAK</text>
 <text class="v" x="218" y="172">3d</text>
 <text class="l" x="430" y="66">TOP LANGUAGES (BY REPOS)</text>
@@ -415,6 +415,6 @@
 <rect class="c" style="animation-delay:1.56s" x="756" y="220" width="11" height="11" rx="2" fill="#4c1d95"/>
 <rect class="c" style="animation-delay:1.56s" x="756" y="234" width="11" height="11" rx="2" fill="#1e293b"/>
 <rect class="c" style="animation-delay:1.56s" x="756" y="248" width="11" height="11" rx="2" fill="#6d28d9"/>
-<rect class="c" style="animation-delay:1.56s" x="756" y="262" width="11" height="11" rx="2" fill="#1e293b"/>
+<rect class="c" style="animation-delay:1.56s" x="756" y="262" width="11" height="11" rx="2" fill="#4c1d95"/>
 <rect class="glowb" x="2" y="2" width="776" height="326" rx="16" fill="none" stroke="url(#bd)" stroke-width="2"/>
 </svg>
